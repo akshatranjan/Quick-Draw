@@ -1,0 +1,53 @@
+body 
+{
+    background-color: yellowgreen;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#show_sketch:hover
+{
+    background-color: blue;
+}
+
+h1
+{
+    background-color: lightblue;
+    color: blue;
+}
+
+#clear:hover
+{
+    background-color: darkred;
+    font-size: 20px;
+}
+
+#your_sketch, #confidence 
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#sketch_to_draw
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+#score
+{
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+}
+
+#timer
+{
+    font-weight: bold;
+    font-size: 18px;
+    float: right;
+}
